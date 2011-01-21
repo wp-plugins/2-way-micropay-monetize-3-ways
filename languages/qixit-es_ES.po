@@ -1,0 +1,641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ACCOUNT SETUP INSTRUCTIONS:"
+msgstr "CUENTA DE INSTRUCCIONES DE INSTALACIÓN:"
+
+msgid "Ad hoc Link Create"
+msgstr "Ad hoc Crear vínculo"
+
+msgid "Ad hoc link created successfully but due to qixit error it has draft status."
+msgstr "Ad hoc de enlace creado con éxito, pero debido a qixit error que ha estado el proyecto."
+
+msgid "Ad hoc link created successfully."
+msgstr "Ad hoc de enlace creado con éxito."
+
+msgid "Ad hoc Link Creation"
+msgstr "Vincular la creación ad hoc"
+
+msgid "Ad hoc Link List"
+msgstr "Ad hoc lista de vínculos"
+
+msgid "Ad hoc link updated."
+msgstr "Ad hoc de enlace de actualización."
+
+msgid "Ad hoc Prodcut"
+msgstr "Ad hoc Prodcut"
+
+msgid "Ad hoc Link Add"
+msgstr "Añadir enlace ad hoc"
+
+msgid "After you complete the vendor account setup, you will be able to create 2-Way Micropay product links to collect payments when users click on your product links.  This plug in will automatically create and manage your product purchase links. After you have completed these two steps, complete the information in the form below to select how 2-Way Micropayments will work in your blog."
+msgstr "Después de completar la configuración de la cuenta del vendedor, usted será capaz de crear 2 vías vínculos de productos MicroPay para cobrar los pagos cuando los usuarios hacen clic en los enlaces de su producto. Este enchufe automáticamente crear y gestionar sus enlaces de compra del producto. Después de haber completado estos dos pasos, completar la información en el formulario de abajo para seleccionar el modo Micropagos 2-Way de trabajo en tu blog."
+
+msgid "All amounts are in dollars and cents, i.e., 5 cents should be entered as .05"
+msgstr "Todas las cantidades son en dólares y centavos, es decir, 5 centavos se debe ingresar como 0.05"
+
+msgid "All Payments"
+msgstr "Todos los pagos"
+
+msgid "Amount Paid"
+msgstr "Monto pagado"
+
+msgid "Amount Sharing"
+msgstr "Cantidad Compartir"
+
+msgid "Are you sure you wish to delete this qixit ad hoc product?"
+msgstr "¿Está seguro que desea eliminar esta qixit ad hoc del producto?"
+
+msgid "Are you sure you wish to delete this qixit product?"
+msgstr "¿Está seguro que desea eliminar esta qixit ad hoc del producto?"
+
+msgid "Author"
+msgstr "Autor"
+
+msgid "Author registration"
+msgstr "Autor de registro"
+
+msgid "Author Settings"
+msgstr "Configuración de Autor"
+
+msgid "Author Sign Up"
+msgstr "Autor Registrarse"
+
+msgid "Authors may publish an article for a price of"
+msgstr "Los autores pueden publicar un artículo por un precio de"
+
+msgid "Benefits of Premium Placement:"
+msgstr "Beneficios de la colocación de primera calidad:"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "cents to buy"
+msgstr "centavos de dólar para comprar"
+
+msgid "Change to"
+msgstr "Cambio a la"
+
+msgid "Comment"
+msgstr "Comentar"
+
+msgid "Comment Cost"
+msgstr "Comentario de costos"
+
+msgid "Comment Cost should be greater than zero."
+msgstr "Costo comentario debe ser mayor que cero."
+
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
+
+msgid "Content"
+msgstr "Contenido"
+
+msgid "Cost"
+msgstr "Costo"
+
+msgid "Cost cannot be blank."
+msgstr "El costo no puede estar en blanco."
+
+msgid "Cross Reference"
+msgstr "Referencia cruzada"
+
+msgid "curl value cannot be blank."
+msgstr "valor de curvatura no puede estar en blanco."
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Delivery Url"
+msgstr "Entrega Url"
+
+msgid "Delivery URL cannot be blank."
+msgstr "Dirección de entrega no puede estar en blanco."
+
+msgid "Description cannot be blank."
+msgstr "La descripción no puede estar en blanco."
+
+msgid "Draft"
+msgstr "Proyecto de"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Enable premium content, with a default price of"
+msgstr "Habilitar el contenido de primera calidad, con un precio predeterminado"
+
+msgid "ERROR"
+msgstr "ERROR"
+
+msgid "For the present time, 2-Way Micropay&#0153; and Qixit&#0153; are only for use by persons within the United States."
+msgstr "Por el momento, 2-Way MicroPay ™ y Qixit son sólo para uso de personas en los Estados Unidos."
+
+msgid "Free Comment"
+msgstr "Libre Comentario"
+
+msgid "Free Comment Placement - below premium comments"
+msgstr "Libre comentario de Colocación - por debajo de los comentarios de primas"
+
+msgid "Hide password"
+msgstr "Ocultar contraseña"
+
+msgid "How This Works"
+msgstr "¿Cómo funciona este"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Immediate Posting. No waiting for review."
+msgstr "Inmediata del anuncio. No hay que esperar para su revisión."
+
+msgid "immediate,"
+msgstr "inmediata,"
+
+msgid "It costs just"
+msgstr "Cuesta sólo"
+
+msgid "Learn More"
+msgstr "Más información"
+
+msgid "Link"
+msgstr "Enlace"
+
+msgid "New Registration"
+msgstr "Nuevo Registro"
+
+msgid "New? Your free account comes with &quot;free&quot; money!"
+msgstr "¿Eres nuevo? Tu cuenta gratis viene con dinero &quot;gratis&quot;!"
+
+msgid "NOTE ON ACCOUNT RESTRICTIONS:"
+msgstr "NOTA SOBRE RESTRICCIONES EN CUENTA:"
+
+msgid "Notice:QIXIT 2-Way Micropay plugin is almost ready to use. Please complete the QIXIT settings for it to work."
+msgstr "Aviso: QIXIT 2 vías MicroPay plugin está casi listo para su uso. Por favor, complete la configuración de QIXIT para que funcione."
+
+msgid "Notice:QIXIT 2-Way Micropay plugin is almost ready to use. Please Enable the Curl settings for it to work."
+msgstr "Aviso: QIXIT 2 vías MicroPay plugin está casi listo para su uso. Por favor, complete la configuración de QIXIT para que funcione."
+
+msgid "Notice:QIXIT 2-Way Micropay plugin is almost ready to use. Please Enable the Open SSL settings for it to work."
+msgstr "Aviso: QIXIT 2 vías MicroPay plugin está casi listo para su uso. Por favor, activa la configuración de Open SSL para que funcione."
+
+msgid "OK"
+msgstr "Aceptar"
+
+msgid "Paid For"
+msgstr "Pagado"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Password & confirm password should be same"
+msgstr "contraseña y confirme la contraseña debe ser el mismo"
+
+msgid "Pay once view anytime"
+msgstr "Pague una vez vista en cualquier momento"
+
+msgid "Pay per view"
+msgstr "El pago por visión"
+
+msgid "Payment for"
+msgstr "El pago de"
+
+msgid "perm cannot be blank."
+msgstr "permanente no puede estar en blanco."
+
+msgid "Permanent placement above all free comments."
+msgstr "Permanente de la colocación, sobre todo, sin comentarios."
+
+msgid "Pitch Url"
+msgstr "Url de tono"
+
+msgid "Pitch URL cannot be blank."
+msgstr "URL de tono no puede estar en blanco."
+
+msgid "Please do not forget to read the documentation at the plugin site."
+msgstr "Por favor no se olvide de leer la documentación en el plugin del sitio."
+
+msgid "Please enter confirm password"
+msgstr "Por favor, introduzca confirmar la contraseña"
+
+msgid "Please enter numeric value only."
+msgstr "Por favor, introduzca el valor numérico solamente."
+
+msgid "Please enter password"
+msgstr "Por favor, introduzca la contraseña"
+
+msgid "Please fix the following errors:"
+msgstr "Por favor, corrija los errores siguientes:"
+
+msgid "Please update!"
+msgstr "Por favor, actualice!"
+
+msgid "Post"
+msgstr "Mensaje"
+
+msgid "Post Cost"
+msgstr "Mensaje Costo"
+
+msgid "Post Cost should be greater than zero."
+msgstr "Relacionados con puestos debe ser mayor que cero."
+
+msgid "Post publish"
+msgstr "Post publicar"
+
+msgid "Post published"
+msgstr "Post publicó"
+
+msgid "Post View"
+msgstr "Ver post"
+
+msgid "Post viewed"
+msgstr "Mensaje vistos"
+
+msgid "Posts Title"
+msgstr "Mensajes Título"
+
+msgid "Premium Comment"
+msgstr "Premium Comentario"
+
+msgid "Premium commentors may earn more &quot;free&quot; money."
+msgstr "Los comentaristas de primera calidad puede ganar más dinero &quot;gratis&quot;."
+
+msgid "Premium Placement - above free comments"
+msgstr "Colocación de primera calidad - por encima de comentarios libre"
+
+msgid "premium placement of your comment."
+msgstr "prima de colocación de su comentario."
+
+msgid "Product Title"
+msgstr "Título del Producto"
+
+msgid "Publish"
+msgstr "Publicar"
+
+msgid "Publish/Unpublish"
+msgstr "Publicar / despublicar"
+
+msgid "Publisher"
+msgstr "Publicar"
+
+msgid "Purchase link:"
+msgstr "Compra enlace:"
+
+msgid "QIX IT 2-Way Micropay plugin requires Wordpress 2.8 or newer."
+msgstr "De QIX TI y 2 vías MicroPay requiere plugin de Wordpress 2.8 o más reciente."
+
+msgid "Qixit"
+msgstr "Qixit"
+
+msgid "QIXIT Account Settings"
+msgstr "QIXIT Configuración de la cuenta"
+
+msgid "Qixit Cross Reference"
+msgstr "Qixit de referencias cruzadas"
+
+msgid "Qixit ID"
+msgstr "Qixit ID"
+
+msgid "QixIT Micropay"
+msgstr "QixIT Configuración"
+
+msgid "QixIT Micropay Settings"
+msgstr "QixIT Configuración MicroPay"
+
+msgid "Qixit Pages"
+msgstr "Qixit Páginas"
+
+msgid "Qixit PID not found."
+msgstr "Qixit PID no se encuentra."
+
+msgid "Qixit Post Type"
+msgstr "Qixit Tipo Post"
+
+msgid "Qixit Product Creation Password"
+msgstr "Creación del producto Qixit Contraseña"
+
+msgid "Qixit Sales History"
+msgstr "Qixit Ventas Historia"
+
+msgid "Qixit Transaction ID"
+msgstr "Qixit identificación de la transacción"
+
+msgid "Qixit Warning"
+msgstr "Advertencia Qixit"
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Search Payments for"
+msgstr "Pagos Buscar"
+
+msgid "--Select Qixit Action--"
+msgstr "- Acción Qixit Seleccione -"
+
+msgid "Select which payment options you wish to enable below and fill in require fields for selected options."
+msgstr "Seleccione las opciones de pago que desea habilitar a continuación y rellene los campos requieren para conocer las opciones seleccionadas."
+
+msgid "Settings saved."
+msgstr "Configuración guardada."
+
+msgid "Site url cannot be blank."
+msgstr "URL del sitio no puede estar en blanco."
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Take me to QIXIT settings page."
+msgstr "Llévame a QIXIT página de configuración."
+
+msgid "Terms of Service For Posting of Premium Comments"
+msgstr "Condiciones de servicio para envío de las notas de primera calidad"
+
+msgid "There are no value at the moment."
+msgstr "No hay valor en el momento."
+
+msgid "There was an error in connecting to the Qixit system."
+msgstr "Hubo un error en la conexión al sistema Qixit."
+
+msgid "This form allows you to quickly create a purchase link.  More options are available by signing into"
+msgstr "Este formulario le permite crear rápidamente un enlace de compra. Más opciones están disponibles mediante la firma en"
+
+msgid "to send and receive funds. Secondly, you must then setup a vendor account at"
+msgstr "para enviar y recibir fondos. En segundo lugar, debe entonces configurar una cuenta de vendedor en"
+
+msgid "To use 2-Way Micropay&#0153; you must first create a Qixit account at"
+msgstr "Para utilizar dos vías MicroPay ™ primero debe crear una cuenta en Qixit"
+
+msgid "Update password"
+msgstr "Actualización de la contraseña"
+
+msgid "Vendor Qixit ID cannot be blank."
+msgstr "Vendedor Qixit ID no puede estar en blanco."
+
+msgid "Vendor Qixit Password cannot be blank."
+msgstr "Vendedor Qixit contraseña no puede estar en blanco."
+
+msgid "View post"
+msgstr "Ver el último mensaje"
+
+msgid "Visit Plugin link"
+msgstr "Visita Plugin enlace"
+
+msgid "We Publish Your Articles"
+msgstr "Publicamos sus artículos"
+
+msgid "where you can create or edit the product variables."
+msgstr "donde se puede crear o editar las variables del producto."
+
+msgid "Wrong Request Url"
+msgstr "Url Solicitud incorrecta"
+
+msgid "Wrong username or password"
+msgstr "nombre de usuario o contraseña incorrectos"
+
+msgid "Congratulations, A post has been successfully published by author on"
+msgstr "Felicidades, un puesto ha sido publicado con éxito por el autor en"
+
+msgid "Congratulations, your post has been successfully published on"
+msgstr "Felicitaciones, su mensaje ha sido publicado con éxito en"
+
+msgid "Dear"
+msgstr "Estimados"
+
+msgid "Dear Administrator"
+msgstr "Estimado Administrador"
+
+msgid "Post published by author."
+msgstr "Post publicado por el autor."
+
+msgid "Post published from an Authors account by differnt qixit user"
+msgstr "Post publicado desde una cuenta de los autores por el usuario qixit differnt"
+
+msgid "Please review your account"
+msgstr "Por favor, revise su cuenta"
+
+msgid "Article published successfully."
+msgstr "Artículo publicado con éxito."
+
+msgid "This is to inform you that an article was published from your account using a different Qixit ID. Please review the article"
+msgstr "La presente es para informarle de que se publicó un artículo de su cuenta con un ID diferente Qixit. Por favor, lea el artículo"
+
+msgid "This is to inform you that an article was published from an authors account using a different Qixit ID on"
+msgstr "La presente es para informarle de que se publicó un artículo de un autor cuenta con una ID diferente Qixit en"
+
+msgid "You can review the article at"
+msgstr "Usted puede revisar el artículo en"
+
+msgid "Where qixit id is"
+msgstr "Donde id es qixit"
+
+msgid "and contact Qixit Support for any questions. Alternatively, you can modify your account settings to update your Qixit ID."
+msgstr "y en contacto con Atención Qixit para cualquier pregunta. Si lo prefiere, puede modificar la configuración de la cuenta para actualizar su identificación Qixit."
+
+msgid "Buyer&rsquo;s Qixit User ID"
+msgstr "Usuario Comprador Qixit ID"
+
+msgid "Read Guest/Author&rsquo;s Stories"
+msgstr "Habitación de lectura / Autor&rsquo;s Historias"
+
+msgid "If you will choose &rsquo;Yes&rsquo; then all the related payment detail and product detail will be deleted"
+msgstr "Si se selecciona &rsquo;Sí&rsquo;, entonces todos los detalles relacionados con el pago y los detalles del producto serán eliminados"
+
+msgid "Ad hoc Cost should be greater than zero."
+msgstr "Costo ad hoc debe ser mayor que cero."
+
+msgid "Ad hoc link title"
+msgstr "Ad hoc título del enlace"
+
+msgid "Please enter integer value only."
+msgstr "Por favor, introduzca un valor entero solamente."
+
+msgid "Author Log in"
+msgstr "Author Log in"
+
+msgid "Qixit ID cannot be blank."
+msgstr "Qixit ID no puede estar en blanco."
+
+msgid "Qixit Password cannot be blank."
+msgstr "Qixit contraseña no puede estar en blanco."
+
+msgid "Enable premium content links, with a default price should have non-negative numeric value with only two digit after decimal."
+msgstr "Habilitar enlaces de contenido de alta calidad, con un precio por defecto debe tener un valor numérico no negativo con sólo dígitos después de dos decimales."
+
+msgid "Premium Comments default price should have non-negative numeric value with only two digit after decimal."
+msgstr "Sobreprecio por defecto Los comentarios deben tener un valor numérico no negativo con sólo dos dígitos después de decimales."
+
+msgid "Characters should have non-negative integer value only."
+msgstr "Los personajes deben tener un valor entero no negativo solamente."
+
+msgid "Readers may setup Guest Author account for a price should have non-negative numeric value with only two digit after decimal."
+msgstr "Los lectores pueden configuración de la cuenta Autor huéspedes por un precio debe tener un valor numérico no negativo con sólo dígitos después de dos decimales."
+
+msgid "Guest Authors may publish an article for a price should have non-negative numeric value only."
+msgstr "Los autores invitados pueden publicar un artículo por un precio debe tener un valor numérico no negativo solamente."
+
+msgid "Author&rsquo;s percent share amount should have non-negative numeric value only."
+msgstr "importe del autor por ciento de participación deben tener un valor numérico no negativo solamente."
+
+msgid "Pay once view anytime cookie expiry time should have non-negative integer value only."
+msgstr "Pague una vez vista en cualquier momento el tiempo de caducidad cookie debe tener un valor entero no negativo solamente."
+
+msgid "Product Title cannot be blank."
+msgstr "Titulo del producto no puede estar en blanco."
+
+msgid "Cost should have non-negative numeric value with only two digit after decimal."
+msgstr "El costo debe tener un valor numérico no negativo con sólo dos dígitos después de decimales."
+
+msgid "Pitch url should have correct url string."
+msgstr "url de tono debe tener cadena URL correcta."
+
+msgid "Delivery url should have correct url string."
+msgstr "url de entrega deben tener cadena URL correcta."
+
+msgid "Total Amount"
+msgstr "Cantidad Total"
+
+msgid "Total Sales (last month)"
+msgstr "Las ventas totales (el último mes)"
+
+msgid "Total Sales Amount for administrator (last month)"
+msgstr "Cantidad total de ventas para el administrador (el último mes)"
+
+msgid "Total Sales (year to date)"
+msgstr "Ventas totales (hasta la fecha)"
+
+msgid "Total Sales Amount for administrator (year to date)"
+msgstr "Cantidad total de ventas para el administrador (hasta la fecha)"
+
+msgid "Export to CSV"
+msgstr "Exportar a CSV"
+
+msgid "No data found."
+msgstr "No se hallaron datos."
+
+msgid "Premium Comments"
+msgstr "Premium Comentarios"
+
+msgid "Free Comments"
+msgstr "Libre Comentarios"
+
+msgid "This form allows you to quickly create a purchase link.  More options are available by signing into "
+msgstr "Este formulario le permite crear rápidamente un enlace de compra. Más opciones están disponibles mediante la firma en"
+
+msgid "(do not put a % sign, so 50% share will only be 50)"
+msgstr "(No poner un signo%, así que 50% de la cuota sólo será de 50)"
+
+msgid "Author percent share should be between 1 and 100"
+msgstr "cuota de Autor por ciento debe estar entre 1 y 100"
+
+msgid "Provided Vendor ID or Password invalid. You must upgrade your Qixit ID to a vendor account at"
+msgstr "Siempre Vendor ID o contraseña no válidos. Usted debe actualizar su identificación Qixit a una cuenta de vendedor en"
+
+msgid "To active this widget you should first set admin options."
+msgstr "Para activar este widget que primero debe configurar las opciones de administración."
+
+msgid "Enable Premium Comments"
+msgstr "Activer Commentaires Premium"
+
+msgid "Premium Comments default price"
+msgstr "prix Premium défaut Commentaires"
+
+msgid "Characters to show before &lsquo;More Link&rsquo;"
+msgstr "Caracteres para mostrar antes de &lsquo;Link Más &rsquo;"
+
+msgid "Readers may setup an author account for a price of"
+msgstr "Les lecteurs peuvent configurer un compte dauteur pour un prix de"
+
+msgid "Author&rsquo;s percent share"
+msgstr "part pour cent de l&rsquo;auteur"
+
+msgid "Pay once view anytime cookie expiry time"
+msgstr "Payez une fois consulter à tout moment cookie moment de lexpiration"
+
+msgid "Premium comments heading background color"
+msgstr "commentaires Premium rubrique couleur de fond"
+
+msgid "Premium comments background color"
+msgstr "la couleur de fond Premium commentaires"
+
+msgid "Description for Terms of Service For Posting of Premium Comments"
+msgstr "Description des modalités de service pour laffichage des commentaires Premium"
+
+msgid "Enable premium content settings for Authors, with a default price should have non-negative numeric value only."
+msgstr "Habilitar la configuración de contenido premium para los autores, con un precio por defecto debe tener un valor numérico no negativo solamente."
+
+msgid "Ad Hoc Product Description"
+msgstr "Especial Descripción del producto"
+
+msgid "If, used within the blog, the following link will bring up a light box for confirmation of purchase"
+msgstr "Si, utilizados en el blog, en el siguiente enlace se abrirá una caja de luz para la confirmación de la compra"
+
+msgid "QixIT Settings"
+msgstr "QixIT Configuración"
+
+msgid "Ad hoc Link Type"
+msgstr "Tipo de enlace ad hoc"
+
+msgid "Url to Update Ad Hoc Product"
+msgstr "Url para actualizar ad hoc del producto"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "View Ad Hoc Product"
+msgstr "Ver Especial del producto"
+
+msgid "Ad hoc View"
+msgstr "Ad hoc Ver"
+
+msgid "Post Viewed"
+msgstr "Mensaje vistos"
+
+msgid "Ad hoc Viewed"
+msgstr "Ad hoc vistos"
+
+msgid "This setting only invokes if your post doesn't have a more link."
+msgstr "¿Por qué no tener interés para chatear conmigo?"
+
+msgid "Qixit Vendor Account:"
+msgstr "Qixit cuenta del vendedor:"
+
+msgid "Premium Content:"
+msgstr "Premium de contenido:"
+
+msgid "Ad Hoc Links"
+msgstr "Especial Enlaces"
+
+msgid "Enable Premium Comments Fourcefully"
+msgstr "Comentarios Activar Premium Fourcefully"
+
+msgid "Guest Author Settings"
+msgstr "Habitación Configuración de Autor"
+
+msgid "Enable Guest Authors to Create Posts"
+msgstr "Permita que los autores invitados para crear mensajes"
+
+msgid "Terms of Service"
+msgstr "Condiciones del servicio"
+
+msgid "Payment split between blog and author, coming soon"
+msgstr "Pago dividido entre blog y el autor, muy pronto"
+
+msgid "If you are collecting money, you should have some terms of service posted on your site. The text below, for example, appears when a person attempts to post a premium comment"
+msgstr "Si usted está recogiendo el dinero, usted debe tener algunos de los términos de servicio publicado en su sitio. El texto que sigue, por ejemplo, aparece cuando una persona intenta publicar un comentario prima"
+
+msgid "This is number of days allowed for 'pay once view anytime' "
+msgstr "Este es el número de días permitidos para 'pagar una vez vista en cualquier momento' "
+
+msgid "Manually create your own purchase links to off site URL's or to any link on your own site(s) using the <a href='admin.php?page=qixit_ad_hoc_create'>ad hoc link creator"
+msgstr "Crear manualmente los enlaces de compra propios de URL del sitio o de cualquier link en tu propio sitio (s) usando el <a href='admin.php?page=qixit_ad_hoc_create'> ad hoc creador de enlace"
+

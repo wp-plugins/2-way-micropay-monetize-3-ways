@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: QixitWPP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-01 03:37+0900\n"
+"PO-Revision-Date: 2010-01-01 03:37+0900\n"
+"Last-Translator: NAME <email>\n"
+"Language-Team: COMPANY NAME <Team-leader-email>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: QixitWPP\n"
+
+msgid "ACCOUNT SETUP INSTRUCTIONS:"
+msgstr ""
+
+msgid "Ad Hoc Link Create"
+msgstr ""
+
+msgid "Ad hoc link created successfully but due to qixit error it has draft status."
+msgstr ""
+
+msgid "Ad hoc link created successfully."
+msgstr ""
+
+msgid "Ad Hoc Link Creation"
+msgstr ""
+
+msgid "Ad Hoc Link List"
+msgstr ""
+
+msgid "Ad hoc link updated."
+msgstr ""
+
+msgid "Ad Hoc Prodcut:"
+msgstr ""
+
+msgid "AdHoc Link Add"
+msgstr ""
+
+msgid "After you complete the vendor account setup, you will be able to create 2-Way Micropay product links to collect payments when users click on your product links.  This plug in will automatically create and manage your product purchase links. After you have completed these two steps, complete the information in the form below to select how 2-Way Micropayments will work in your blog."
+msgstr ""
+
+msgid "All amounts are in dollars and cents, i.e., 5 cents should be entered as .05"
+msgstr ""
+
+
+msgid "All Payments"
+msgstr ""
+
+msgid "Amount Paid"
+msgstr ""
+
+msgid "Amount Sharing"
+msgstr ""
+
+msgid "Are you sure you wish to delete this qixit ad hoc product?"
+msgstr ""
+
+msgid "Are you sure you wish to delete this qixit product?"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author registration"
+msgstr ""
+
+msgid "Author Settings:"
+msgstr ""
+
+msgid "Author Sign Up"
+msgstr ""
+
+msgid "Authors may publish an article for a price of:"
+msgstr ""
+
+
+msgid "Benefits of Premium Placement:"
+msgstr ""
+
+msgid "Buyer\'s Qixit User ID"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "cents to buy"
+msgstr ""
+
+msgid "Change to"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comment Cost"
+msgstr ""
+
+msgid "Comment Cost should be greater than zero."
+msgstr ""
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "Cost cannot be blank."
+msgstr ""
+
+msgid "Cross Reference"
+msgstr ""
+
+msgid "curl value cannot be blank."
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delivery Url"
+msgstr ""
+
+msgid "Delivery URL cannot be blank."
+msgstr ""
+
+msgid "Description cannot be blank."
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Enable premium content, with a default price of:"
+msgstr ""
+
+msgid "ERROR"
+msgstr ""
+
+msgid "For the present time, 2-Way Micropay&#0153; and Qixit&#0153; are only for use by persons within the United States."
+msgstr ""
+
+msgid "Free Comment"
+msgstr ""
+
+msgid "Free Comment Placement - below premium comments"
+msgstr ""
+
+msgid "Hide password"
+msgstr ""
+
+msgid "How This Works"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "If you will choose 'Yes' then all the related payment detail and product detail will be deleted"
+msgstr ""
+
+msgid "Immediate Posting. No waiting for review."
+msgstr ""
+
+msgid "immediate,"
+msgstr ""
+
+msgid "It costs just"
+msgstr ""
+
+msgid "Learn More"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "New Registration"
+msgstr ""
+
+msgid "New? Your free account comes with &quot;free&quot; money!"
+msgstr ""
+
+msgid "NOTE ON ACCOUNT RESTRICTIONS:"
+msgstr ""
+
+msgid "Notice:QIXIT 2-Way Micropay plugin is almost ready to use. Please complete the QIXIT settings for it to work."
+msgstr ""
+
+msgid "Notice:QIXIT 2-Way Micropay plugin is almost ready to use. Please Enable the Curl settings for it to work."
+msgstr ""
+
+msgid "Notice:QIXIT 2-Way Micropay plugin is almost ready to use. Please Enable the Open SSL settings for it to work."
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Paid For"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password & confirm password should be same"
+msgstr ""
+
+msgid "Pay once view anytime"
+msgstr ""
+
+msgid "Pay per view"
+msgstr ""
+
+msgid "Payment for"
+msgstr ""
+
+msgid "perm cannot be blank."
+msgstr ""
+
+msgid "Permanent placement above all free comments."
+msgstr ""
+
+msgid "Pitch Url"
+msgstr ""
+
+msgid "Pitch URL cannot be blank."
+msgstr ""
+
+msgid "Please do not forget to read the documentation at the plugin site."
+msgstr ""
+
+msgid "Please enter confirm password"
+msgstr ""
+
+msgid "Please enter numeric value only."
+msgstr ""
+
+msgid "Please enter password"
+msgstr ""
+
+msgid "Please fix the following errors:"
+msgstr ""
+
+msgid "Please update!"
+msgstr ""
+
+msgid "Post"
+msgstr ""
+
+msgid "Post Cost"
+msgstr ""
+
+msgid "Post Cost should be greater than zero."
+msgstr ""
+
+msgid "Post publish"
+msgstr ""
+
+msgid "Post published"
+msgstr ""
+
+msgid "Post View"
+msgstr ""
+
+msgid "Post viewed"
+msgstr ""
+
+msgid "Posts Title"
+msgstr ""
+
+msgid "Premium Comment"
+msgstr ""
+
+msgid "Premium commentors may earn more &quot;free&quot; money."
+msgstr ""
+
+msgid "Premium Placement - above free comments"
+msgstr ""
+
+msgid "premium placement of your comment."
+msgstr ""
+
+msgid "Product Title"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Publish/Unpublish"
+msgstr ""
+
+msgid "Publisher:"
+msgstr ""
+
+msgid "Purchase link:"
+msgstr ""
+
+msgid "QIX IT 2-Way Micropay plugin requires Wordpress 2.8 or newer."
+msgstr ""
+
+msgid "Qixit"
+msgstr ""
+
+msgid "QIXIT Account Settings"
+msgstr ""
+
+msgid "Qixit Cross Reference"
+msgstr ""
+
+msgid "Qixit ID"
+msgstr ""
+
+msgid "QixIT Micropay"
+msgstr ""
+
+msgid "QixIT Micropay Settings"
+msgstr ""
+
+msgid "Qixit Pages"
+msgstr ""
+
+msgid "Qixit PID not found."
+msgstr ""
+
+msgid "Qixit Post Type"
+msgstr ""
+
+msgid "Qixit Product Creation Password"
+msgstr ""
+
+msgid "Qixit Sales History"
+msgstr ""
+
+msgid "Qixit Transaction ID"
+msgstr ""
+
+msgid "Qixit Warning"
+msgstr ""
+
+msgid "Read Guest/Author\'s Stories"
+msgstr ""
+
+msgid "Regular"
+msgstr ""
+
+msgid "Search Payments for"
+msgstr ""
+
+msgid "--Select Qixit Action--"
+msgstr ""
+
+msgid "Select which payment options you wish to enable below and fill in require fields for selected options."
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Site url cannot be blank."
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Take me to QIXIT settings page."
+msgstr ""
+
+msgid "Terms of Service For Posting of Premium Comments"
+msgstr ""
+
+msgid "There are no value at the moment."
+msgstr ""
+
+msgid "There was an error in connecting to the Qixit system."
+msgstr ""
+
+msgid "This form allows you to quickly create a purchase link.  More options are available by signing into"
+msgstr ""
+
+msgid "to send and receive funds. Secondly, you must then setup a vendor account at"
+msgstr ""
+
+msgid "To use 2-Way Micropay&#0153; you must first create a Qixit account at"
+msgstr ""
+
+msgid "Update password"
+msgstr ""
+
+msgid "Vendor Qixit ID cannot be blank."
+msgstr ""
+
+msgid "Vendor Qixit Password cannot be blank."
+msgstr ""
+
+msgid "View post"
+msgstr ""
+
+msgid "Visit Plugin link"
+msgstr ""
+
+msgid "We Publish Your Articles"
+msgstr ""
+
+msgid "where you can create or edit the product variables."
+msgstr ""
+
+msgid "Wrong Request Url"
+msgstr ""
+
+msgid "Wrong username or password"
+msgstr ""
+
+msgid "Congratulations, A post has been successfully published by author on"
+msgstr ""
+
+msgid "Congratulations, your post has been successfully published on"
+msgstr ""
+
+msgid "Dear"
+msgstr ""
+
+msgid "Dear Administrator"
+msgstr ""
+
+msgid "Post published by author."
+msgstr ""
+
+msgid "Post published from an Authors account by differnt qixit user"
+msgstr ""
+
+msgid "Please review your account"
+msgstr ""
+
+msgid "Article published successfully."
+msgstr ""
+
+msgid "This is to inform you that an article was published from your account using a different Qixit ID. Please review the article"
+msgstr ""
+
+msgid "This is to inform you that an article was published from an authors account using a different Qixit ID on"
+msgstr ""
+
+msgid "You can review the article at"
+msgstr ""
+
+msgid "Where qixit id is"
+msgstr ""
+
+msgid "and contact Qixit Support for any questions. Alternatively, you can modify your account settings to update your Qixit ID."
+msgstr ""
