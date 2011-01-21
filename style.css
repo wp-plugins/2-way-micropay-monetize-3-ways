@@ -1,0 +1,275 @@
+.qixit_normal_text{
+   font-size:11px;
+   font-family:Arial, Helvetica, sans-serif;
+   color:#666666;
+}
+
+/* ==================================================== START premium comment css */
+#comments ul.commentlist li {
+	background:none; /* It's compulsory if theme has image li background then background image should be removed. its for lessthan or equal to wp-2.9.2 */
+}
+#li-comments ul.commentlist li {
+	background:none; /* It's compulsory if theme has image li background then background image should be removed. its for greaterthan or equal to wp-3.0 */
+}
+li.qixit_comments_title_premium  /* premium title NOTE: it's background color is configered by admin-options with script help */
+{
+   padding:5px 5px 10px 10px;
+   margin-bottom:2px;
+   color:#053F7F;
+   font-weight:bold;
+}
+li.qixit_premium_comments  /* premium body NOTE: it's background color is configered by admin-options with script help */
+{
+   margin-top:0px;
+}
+
+/* start premium comment font css */
+li.qixit_premium_comments div div cite a {
+   font-weight:bold;
+   color:#000000;
+}
+li.qixit_premium_comments div div span.says {
+   font-weight:bold;
+   color:#053F7F;
+}
+li.qixit_premium_comments div div.commentmetadata a {
+   font-weight:normal;
+   color:#000000;
+}
+li.qixit_premium_comments div div a {
+   font-weight:bold;
+   color:#000000;
+}
+li.qixit_premium_comments div div.reply a {
+   font-weight:bold;
+   color:#053F7F;
+}
+/* end premium comment font css */
+/* ==================================================== END premium comment css */
+
+
+/* ==================================================== START free comment css */
+li.qixit_comments_title_regular /* regular comment title NOTE: it's background color is configered by admin-options with script help*/ 
+{
+   padding:5px 5px 10px 10px;
+   margin-top:40px;
+   margin-bottom:2px;
+   color:#053F7F;
+   font-size:18px;
+   font-weight:bold;
+   font-family:Arial, Helvetica, sans-serif;
+}
+li.qixit_free_comments{ /* regular comment body NOTE: it's background color is configered by admin-options with script help */
+   margin-top:0px;
+}
+/* ==================================================== END free comment css */
+
+.qixit_comments_box_content
+{
+   text-align: left;
+   margin-left: 80px; 
+}
+
+
+
+#user_password, #user_password_confirm
+{
+   margin-left:6px;margin-right:0;direction:ltr;
+   font-size: 24px;
+   width: 97%;
+   padding: 3px;
+   margin-top: 2px;
+   margin-right: 6px;
+   margin-bottom: 16px;
+   border: 1px solid #e5e5e5;
+   background: #fbfbfb;
+}
+
+
+#front_error_message{
+   background-color:#00CC99;
+   width:70%;
+   margin:auto;
+}
+
+.qixit_front_error_p{
+   line-height: 20px;
+   margin:15px;
+   color:#000000;
+}
+
+#update_qixit_product{
+   display: none;
+}
+
+#update_qixit_comment_product{
+   display: none;
+}
+
+#saved{
+   display: none;
+}
+
+.qixit_free_comment_submit{
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-image: url(../images/normal_button_left.png);
+   height: 27px;
+   float: left;
+   padding-left: 13px;
+   font-family: Verdana, Geneva, sans-serif;
+   font-size: 12px;
+   font-weight: bold;
+   color: #666666;
+   text-decoration: none;
+}
+
+a:hover.qixit_free_comment_submit {
+   color: #000000;
+   background-image: url(../images/normal_button_left_hover.png);
+   cursor:pointer;
+}
+
+
+
+a:hover.qixit_free_comment_submit span {
+   color: #000000;
+   background-image: url(../images/normal_button_right_hover.png);   
+}
+
+.qixit_free_comment_submit_span{
+   background-image: url(../images/normal_button_right.png);
+   background-repeat: no-repeat;
+   background-position: right top;
+   height: 27px;
+   padding-right: 15px;
+   float: left;
+   padding-top: 4px;
+   color: #666666;
+}
+
+#qixit_post_type_edit{
+   display: none;
+}
+
+#qixit_post_cost_edit
+{
+   display: none;
+}
+
+.qixit_show {
+   display: block; 
+   float:left;
+}
+
+.qixit_hide {
+   display:none;
+}
+
+#qixit_comment_cost_edit{
+   display: none;
+}
+
+#light_div{
+   width:100%;height:200px;top:0px;left:0px;
+   position:absolute;z-index:101;
+   margin-top:200px;
+}
+
+#light_div_bg{
+   filter:alpha(opacity=20);opacity: 0.4;
+   background-color:#000000;
+   width:100%;height:100%;top:0px;left:0px;
+   position:absolute;z-index:100;
+}
+
+.light_div_inner{
+   background-color:#FFFFFF;width:350px;margin:auto;border:3px solid #CCCCCC
+}
+
+.light_div_head{
+   font-weight:bold;
+}
+
+#content_type{
+   border-bottom:1px solid #EEEEEE;
+   padding-bottom:5px;
+}
+
+#post_cost{
+   border-bottom:1px solid #EEEEEE;
+   padding-bottom:5px;
+}
+
+#comment_cost{
+   border-bottom:1px solid #EEEEEE;
+   padding-bottom:5px;
+}
+
+.button
+{
+   border:1px solid #999999;
+   background-color:#00FFCC;
+}
+
+#terms_of_service
+{
+   display:none;
+   padding-right:50px;
+   padding-top:10px;
+}
+
+#qixit_iframe
+{
+   width: 80%;
+   height: 200px;
+   scrolling: no;
+   border: 0px;
+   frame-border: 0px;
+}
+
+.sales_post_table
+{
+   border:1px solid #CCCCCC;
+}
+
+.sales_post_table tr
+{
+   background-image:url(../../../../wp-admin/images/gray-grad.png);
+   background-repeat:repeat;
+}
+
+.td_center
+{
+   text-align:center;
+}
+
+.td_left
+{
+   text-align:left;
+}
+
+.qixit_wait_message{
+	text-align:center; 
+	color:#888; 
+	width:100%;
+}
+
+.qixit_admin_error p{
+   line-height:18px;
+}
+
+.qixit_total_sale_on_dashbaord
+{
+line-height:20px;border-top:2px solid #DFDFDF;border-bottom:2px solid #DFDFDF;margin-top:5px;
+}
+
+#sales_report_filter_dropdown
+{
+   float:left;width:27%;margin-top:10px;margin-bottom:10px;
+}
+
+#sales_report_export_csv_button
+{
+   float:left;margin-top:10px;margin-bottom:10px;
+}
