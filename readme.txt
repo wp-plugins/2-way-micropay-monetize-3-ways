@@ -3,7 +3,7 @@ Contributors: nuggetsol QixIT
 Tags: 2-way micropay, Qixit, monetize, micropayments, payment, earn more, ad money, comments, paid comments, premium content, premium, premium comments, ad income, advertising
 Requires at least: 2.8.0
 Tested up to: 3.0.4
-Stable tag: 1.0
+Stable tag: 1.0.0
 
 Monetize with 2Way Micropay: sell content, charge guest authors to post articles, or charge for premium placement of comments above the free comments
  
