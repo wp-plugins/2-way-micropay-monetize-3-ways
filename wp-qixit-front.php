@@ -128,10 +128,20 @@ function qixit_add_more_page_link($content)
    }
    elseif ($post->post_type=='page')
    {   
+      if (stristr($content,'[QIXIT_COST_TO_BE_AN_AUTHOR]'))
+      {
+         $content = str_replace('[QIXIT_COST_TO_BE_AN_AUTHOR]',$qixit_settings['cost_to_be_author'],$content);
+      }
+      if (stristr($content,'[QIXIT_COST_TO_PUBLISH]'))
+      {
+         $content = str_replace('[QIXIT_COST_TO_PUBLISH]',$qixit_settings['cost_to_publish_post_by_author'],$content);
+      }
       if (stristr($content,'[QIXIT_AMOUNT_SHARE]'))
       {
-         return str_replace('[QIXIT_AMOUNT_SHARE]',$qixit_settings['percent_to_author'],$content);
+         $content = str_replace('[QIXIT_AMOUNT_SHARE]',$qixit_settings['percent_to_author'],$content);
       }
+
+      return $content;
    }
    return $content;
 }
