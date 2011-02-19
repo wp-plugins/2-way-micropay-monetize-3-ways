@@ -1,9 +1,10 @@
 === 2-Way Micropay - Monetize 3+ Ways ===
-Contributors: nuggetsol QixIT
+Contributors: Nugget Solutions Inc, QixIT
+Donate link: http://best-reviewed.info/?p=190
 Tags: 2-way micropay, Qixit, monetize, micropayments, payment, earn more, ad money, comments, paid comments, premium content, premium, premium comments, ad income, advertising
 Requires at least: 2.8.0
-Tested up to: 3.0.4
-Stable tag: 1.0.0
+Tested up to: 3.0.6
+Stable tag: 1.0.1
 
 Monetize with 2Way Micropay: sell content, charge guest authors to post articles, or charge for premium placement of comments above the free comments
  
@@ -75,12 +76,17 @@ For [Frequently Asked Questions](http://2waymicropay.com/plugin/faqs) plus demos
 
 == Screenshots ==
 
-1. Premium and Free Comments
-2. This is the second screen shot
+1. Example of how premium and free comments are sorted.
+2. Micropay confirmation screen when user clicks on "Read More..."
+3. Sortable sales and commission history.
 
 == Changelog ==
 
-= 1.0.0
+= Version 1.0.1
+1. Changed a java script function name to fix potential name conflict with some plugins.
+2. Added text and variables to the "How This Works" page which is created when guest authors are allowed.  The new variable will display the amount charged to create a guest author account and the amount required to post a guest author article.
+
+= Version 1.0.0
 stable
 
 == Upgrade Notice ==
