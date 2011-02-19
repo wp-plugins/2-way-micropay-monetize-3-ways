@@ -82,11 +82,11 @@ For [Frequently Asked Questions](http://2waymicropay.com/plugin/faqs) plus demos
 
 == Changelog ==
 
-= Version 1.0.1
-1. Changed a java script function name to fix potential name conflict with some plugins.
-2. Added text and variables to the "How This Works" page which is created when guest authors are allowed.  The new variable will display the amount charged to create a guest author account and the amount required to post a guest author article.
+= Version 1.0.1 =
+* Changed a java script function name to fix potential name conflict with some plugins.
+* Added text and variables to the "How This Works" page which is created when guest authors are allowed.  The new variable will display the amount charged to create a guest author account and the amount required to post a guest author article.
 
-= Version 1.0.0
+= Version 1.0.0 =
 stable
 
 == Upgrade Notice ==
