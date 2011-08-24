@@ -5,7 +5,7 @@
  Description: Blog monetization using the Qixit's 2-Way Micropay platform. Instantly exchange pennies and dollars with equal ease--without the cost and in convenience of a credit card. Sell content, charge guest authors to post articles, or charge for premium placement of comments above the free comments.
 
  Author: QixIT & Nugget Solutions Inc
- Version: 1.0.1
+ Version: 1.0.2
  Author URI: http://www.qixit.com/
 
 Copyright 2010-2011  Qix Information Technology LLC
@@ -44,7 +44,7 @@ if ( ! defined( 'QIXIT_PLUGIN_URL' ) )
 }
 if ( ! defined( 'QIXIT_VERSION' ) )
 {
-   define( 'QIXIT_VERSION',"1.0.1");
+   define( 'QIXIT_VERSION',"1.0.2");
 }
 
 /* DB Tables constants */
