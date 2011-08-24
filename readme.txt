@@ -3,8 +3,8 @@ Contributors: Nugget Solutions Inc, QixIT
 Donate link: http://best-reviewed.info/?p=190
 Tags: 2-way micropay, Qixit, monetize, micropayments, payment, earn more, ad money, comments, paid comments, premium content, premium, premium comments, ad income, advertising
 Requires at least: 2.8.0
-Tested up to: 3.0.6
-Stable tag: 1.0.1
+Tested up to: 3.2.1
+Stable tag: 1.0.2
 
 Monetize with 2Way Micropay: sell content, charge guest authors to post articles, or charge for premium placement of comments above the free comments
  
@@ -82,6 +82,10 @@ For [Frequently Asked Questions](http://2waymicropay.com/plugin/faqs) plus demos
 
 == Changelog ==
 
+= Version 1.0.2 =
+
+* Fixed issue with regular posts and links in searches, archives and category listings
+
 = Version 1.0.1 =
 
 * Changed a java script function name to fix potential name conflict with some plugins.
@@ -89,6 +93,6 @@ For [Frequently Asked Questions](http://2waymicropay.com/plugin/faqs) plus demos
 
 = Version 1.0.0 =
 
-stable
+Initial version
 
 == Upgrade Notice ==

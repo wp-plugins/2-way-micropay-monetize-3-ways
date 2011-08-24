@@ -487,10 +487,10 @@ function qixit_footer_script()
    $qixit_settings = get_option( 'qixit_settings' );
    ?>
    <script type="text/javascript"> 
-   //<![CDATA[   
-    
+   //<![CDATA[ 
+
       function is_viewable(permalink)
-      {         
+      {
          permalink_without_http = permalink.replace(/(https|http):\/\//gi, "");
          //permalink_without_http = permalink; 
          jQuery(document).ready(function($) { 
@@ -529,19 +529,6 @@ function qixit_footer_script()
       jQuery(document).ready(function($) 
       {   
       
-        $('a:[rel="bookmark"]').each(function (i) 
-        {      
-              //alert(this.href);     
-              var permalink=this.href;
-              this.href='JavaScript:void(0)';
-              this.id='qixit_title_link_'+i;    
-              $('#qixit_title_link_'+i).click(function()
-              {      
-                  is_viewable(permalink)
-              });            
-                            
-        });        
-        
        // display heading over free and premium comments        
       <?php
       global $wp_version, $more_link_text;

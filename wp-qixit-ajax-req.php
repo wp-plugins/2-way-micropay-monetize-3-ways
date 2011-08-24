@@ -212,7 +212,7 @@ if ( isset( $_GET['action'] ) )
                }
                else
                {
-                  echo $data='{"result" : "SUCCESS","qixit_product_type" : "A", "durl" : "'.$qixit_ad_hoc_product->get_qixit_delivery_url().'"}';
+                  echo $data='{"result" : "SUCCESS","qixit_product_type" : "P"}';
                }
             }
          }
